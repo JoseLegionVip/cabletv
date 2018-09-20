@@ -1,0 +1,141 @@
+#EXTM3U
+#EXTINF:-2,LATINA HD
+http://cdn.whostreams.net:8080/hls/yg27b9r0x.m3u8?s=HkkdXA5a8I-Slo5GxtrRpQ&e=1537417513
+#EXTINF:-3,BHTV PERU
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-4,AMERICA TV HD
+http://cdn.whostreams.net:8080/hls/z95qxx2kjk.m3u8?s=VnnlKYTlpXB_Nl18ihf4aQ&e=1537414496
+#EXTINF:-5,PANAMERICANA HD
+https://stream-03.nyc.dailymotion.com/dm/3/x18w5up/stream-2-1537339082.ts
+#EXTINF:-6,DISNEY JUNIOR HD
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(DISNEY_JR)/Stream(01)/index.m3u8
+#EXTINF:-7,UNO CANAL HD
+https://live80.vkuserlive.com/620010/live/0/2aTGpVOEN0OE9qcEN-ODA2PjU4MD0-/playlist.m3u8?extra=GALc6km8ddsUDjaHkF-WVu2tnQ5a5FtKsu6uDah3q_6xxuC4GDr4wCucrS52g2vo6hw4bOdD8EiWxeoum4tnag37It7VGCCMCY2Z-zpei755bBfyDIjTiQDO914c-wg
+#EXTINF:-8,DW HD
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:-9,SOL TV HD
+http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
+#EXTINF:-10,CANAL5 MEXICO HD
+http://173.249.32.14:25461/live/premium03/11092018/304.m3u8?key=DvHWsANwJTDzhdHFDHDyMnqvFgGJdomD4CRtptCOS8Gk16UBCV+OvDX2jBAxWCWXvm6yLlS6DziGd3EGpxvGxQ==&token=TRBfUxIMGg1GBFAFWAFSA1ULU1IGVQRSU1IHUVEBV19SU1EEBQUBBFYTSRQSRkYDUV87WlIWCQIAVU1BRkNXS2lbUxBbRgwERh1HQghfUUQKAkgRRl1XEwpDUFcKBAobGhBSShUBSlkFXTpSBERdBVUQXl1DWF8dEg4PPFdVX1hYVhUIQ1QaG0ZYFkZDCBYkRUsBQUUUdENfFBFDXFYSdF9BRFsSF1lCA1BFfw9RGkQcEAZaQkZSRVVDW0ECAgoPFB4VUQ4RVkMWSEcMQ3F1RBwQAUtCUV1CWQ4PQQkSXwpDChUeQw1LaBZUFkITV1ULVUBGCRQEER0SDAAbbFNdV1hXVEYIC1ZERgtHBkMeFgtfXA1HWUZsQVkFQ1kRAgYKDgcVTw==
+#EXTINF:-11,TLNOVELAS HD
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(TLNOVELAS)/Stream(04)/index.m3u8
+#EXTINF:-12,ANIMAL PLANET HD
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(ANIMAL_PLANET_HD)/Stream(05)/index.m3u8
+#EXTINF:-13,DISCOVERY KIDS HD
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(DISCOVERY_KIDS_HD)/Stream(05)/index.m3u8
+#EXTINF:-14,BABY TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8?key=Ouiu9eaCn0t/ovlYCLK8wiz1bJYhsulurH9/Qhb4aq4CIhNSLRDTw7eCyEqpCgPIFbDIORd51lscEUlIW0le4CWQtZWMyqCz
+#EXTINF:-15,CARTOON NETWORK HD
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(CARTOON_NETWORK_HD)/Stream(05)/index.m3u8
+#EXTINF:-16,DISSNEY CHANNEL HD
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(DISNEY_HD)/Stream(05)/index.m3u8
+#EXTINF:-17,DISNEY XD
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_XD)/Stream(04)/index.m3u8
+#EXTINF:-18,TOONCAST HD
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TOONCAST)/Stream(04)/index.m3u8
+#EXTINF:-19,FOXSPORT1 HD
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(FOX_SPORTS_HD)/Stream(05)/index.m3u8
+#EXTINF:-20,FOXSPORT2 HD
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(FOX_SPORTS2_HD)/Stream(05)/index.m3u8
+#EXTINF:-21,FOXSPORT3 HD
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(FOX_SPORTS3_HD)/Stream(05)/index.m3u8
+#EXTINF:-22,DIRECTV SPORTS HD
+http://aleman.mine.nu:8000/live/oscar1/oscar1/3053.m3u8?key=9LkxHT+3PHEOW+85GNujhosbpXOk6xo/bAaIDNGydNO9ofuVjl4xGGV6n0FxkjuqwQiGa+rvX+A=
+#EXTINF:-23,ESPN HD
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(ESPN_HD)/Stream(05)/index.m3u8
+#EXTINF:-24,ESPN2 HD
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(ESPN_2_HD)/Stream(05)/index.m3u8
+#EXTINF:-25,ESPN3 HD
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(ESPN_3_HD)/Stream(05)/index.m3u8
+#EXTINF:-26,DISCOVERY CHANNEL HD
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(DISCOVERY_CHANNEL_HD)/Stream(05)/index.m3u8
+#EXTINF:-27,DISCOVERY H&H
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/index.m3u8?key=Ouiu9eaCn0t/ovlYCLK8wiz1bJYhsulurH9/Qhb4aq4CIhNSLRDTw7eCyEqpCgPIFbDIORd51lscEUlIW0le4CWQtZWMyqCz
+#EXTINF:-28,DISCOVERY TURBO HD
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(DISCOVERY_TURBO)/Stream(04)/index.m3u8
+#EXTINF:-29,DISCOVERY TLC
+https://s10.limpi.tv/live/41570.m3u8?token=yWW7YLOZ8koShy0OsWuuVQ&expires=1537424666&ip=U2FsdGVkX1%2FjCdJ2HIzniigSeqT2nYUIyDFk6p6dTpo%3D
+#EXTINF:-30,DISCOVERY CHANNEL HD
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(HISTORY_CHANNEL_HD)/index.m3u8?key=Ouiu9eaCn0t/ovlYCLK8wiz1bJYhsulurH9/Qhb4aq4CIhNSLRDTw7eCyEqpCgPIFbDIORd51lscEUlIW0le4CWQtZWMyqCz
+#EXTINF:-31,GOL TV HD
+http://198.255.72.90:25461/live/Ecuador!!/sMz9bsMd3D/18709.m3u8?token=ThdZBBVaFV4TUAMDB15XAFJRVwoHVwBWU1EABgFQAFYHVwFWUVdTAVIUGRIXTEFRUghpW1ZEC1VeVVULGxRFR1BHbgwCEA1GAgYCAEYUEUBaCFMQCFYdRhYLARANFAIGDQMBR0oQUhxFU0deBVRsUFYTX1FXRAsKEw4JHhVZXmtRUFwECFYVXhMGFxxGUUBEEV8UcEcfVBYVQiJAWENAFFpTESgPQUQNQkVURQNZE31dBhgQHkRTDRIQBEZSFAoWBAQCV0QeFQdeQ1tEFkERDhEmdxAeRFQcEgcLQV5ZXhYPF1xWEwoVSBNfRm8WXUBAQQBXX1cUE15EU0ceFVtRTGpWXgsIV1QQWFlbQ0YCEQEDRxoQXwlfDRINF21HX1QWDxcHU1YBFRk=
+#EXTINF:-32,NATIONAL GEOGRAPHIC HD
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(NATGEO_HD)/Stream(05)/index.m3u8
+#EXTINF:-33,NAT GEO WILD HD
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(NATGEO_WILD_HD)/Stream(05)/index.m3u8
+#EXTINF:-34,GOLDEN EDGE HD
+http://173.249.32.14:25461/live/tvapk05/15092018/321.m3u8?key=DvHWsANwJTAGctgPm8gA84/fDagi1RbSEs9JtEWClTktNjL65jfAEpo+XYo7TOop&token=TRBfUxIMGg1GCVAEUgJQA1QLB1JTVgMCAAUEUwMECg8PCwAABAZeDlITSRQSRkYDUV87WlIWCQICUE1BRkNXS2lbUxBbRgoDRh1HQghfUUQKAkgRRl1XEwpDU1MCBwYbGhBSShUBSlkFXTpSBERdBVUQXl1DWF8dEg4PPFdVX1hYVhUIQ1UaG0ZYFkZDCBYkRUsBQUUUdENfFBFDXFYSdF9BRFsSF1lCA1BFfw9RGkQcEAZaQkZSRVVDW0EGCQYbGhBUXRQKTEUdE18UInMWShJXHEdTWkBYXw9DWRFdAUwOEBsQCBdnRQFCEUQEU1kDQhBeEQYWHxNdABk8UF9cV1NRQ1sOCksVXhNVFE0QWQleWxBcRGtDWFRDW0EBAAcOAhBK
+#EXTINF:-35,TNT SERIES HD
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(TNT_SERIES_HD)/Stream(05)/index.m3u8
+#EXTINF:-36,WARNER CHANNEL HD
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(WARNER_HD)/Stream(03)/index.m3u8
+#EXTINF:-37,TCM HD
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(TCM)/Stream(04)/index.m3u8
+#EXTINF:-38,TNT HD
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(TNT_HD)/Stream(05)/index.m3u8
+#EXTINF:-39,FOX CINEMA HD
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(FOX_CINEMA_HD)/Stream(05)/index.m3u8
+#EXTINF:-40,CINECANAL HD
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(CINECANAL_HD)/Stream(05)/index.m3u8
+#EXTINF:-41,CINEMAX HD
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(CINEMAX)/Stream(04)/index.m3u8
+#EXTINF:-42,GLITZ HD
+http://173.249.6.158:25461/live/agenda05/15092018/127.m3u8?key=9LkxHT+3PHEOW+85GNujhosbpXOk6xo/bAaIDNGydNO9ofuVjl4xGC0+SQ9dKlh4iRajsb/vdeo=&token=TRBfUxIMGg1GCVEGWQNWUwEBVAcBBgMDVAdTAAJUAwwPAwFQUgUMDlQTSRQSRkYDUV87WlIWCQACVk1BRkNXS2lbUxBbRgwARh1HQghfUUQKAkgRRl1XEwpDU1IHCRAVFFdPRgQWVlYIbgFTF1tXAxIICkZaWB8TXw8+B1ZdU1dSEA0QUUYUFQ1CFRRbEG4HXRIoR1JVHRMcQwMKR0JTTVMQDRBTVA4FRh1HVQ5HWhJCS0YJFHd/ExxDBBtHVVxKX11ZEFtGVQQRCUcaQ1tHOUJXF0dEUVJcVRNDWREAEBUUX1ZKPgdXWQpUBkIIXVoVEghGAxQYEVxfDwgXXEJtSV9WFQhDVQEDURMY
+#EXTINF:-43,FILM ZONE HD
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(THE_FILM_ZONE_HD)/Stream(04)/index.m3u8
+#EXTINF:-44,FX HD
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(FX_HD)/Stream(05)/index.m3u8
+#EXTINF:-45,FOX HD
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_HD)/Stream(05)/index.m3u8
+#EXTINF:-46,FOX LIFE HD
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(FOX_LIFE_HD)/Stream(04)/index.m3u8
+#EXTINF:-47,MULTIPREMIER HD
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(MULTIPREMIER)/Stream(04)/index.m3u8
+#EXTINF:-48,PERU:Central TV Perú
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:-49,MTV MUSIC HD
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MTV_HD)/Stream(05)/index.m3u8
+#EXTINF:-50,HTV MUSIC HD
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HTV)/Stream(04)/index.m3u8
+#EXTINF:-51,-VENEZUELA-
+https://streaming.openmultimedia.biz/blive/ngrp:balta.stream_all/playlist.m3u8
+#EXTINF:-52,SYFY HD
+https://copo5.mitopo.me/live/syfy/index.m3u8?token=CYDT593AzWoz4fMctfo60w&expires=1537420817
+#EXTINF:-53,TLNOVELAS HD
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(TLNOVELAS)/Stream(04)/index.m3u8
+#EXTINF:-54,DE PELICULA HD
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(DEPELICULA)/Stream(01)/index.m3u8
+#EXTINF:-55,TYC SPORTS HD
+http://s1.multicanal.tel:25461/live/jortuz/jortuz/236.m3u8?key=DvHWsANwJTDzhdHFDHDyMnqvFgGJdomD4CRtptCOS8Gk16UBCV+OvDX2jBAxWCWX0s1nR5GhrfmFnij5K8Uj4Q==
+#EXTINF:-56,GOL PERU HD
+https://2202.janjuaplayer.com:8088/adfree/golpetv1/playlist.m3u8?id=80988&pk=44b4b3b6fa8ca41a8d1ece1a6c4ce2ac5e223416bef4939ef8d164f33fda7547
+#EXTINF:-57,TV
+https://copo5.mitopo.me/live/bemad/index.m3u8?token=Dc3VIjxC-vG1WCa4_urViA&expires=1537419289
+#EXTINF:-58,WORLD OF WALKER
+https://redirector.googlevideo.com/videoplayback?sparams=clen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&initcwndbps=130000&ms=au%2Conr&itag=18&mt=1537379716&mv=m&mm=31%2C26&mn=sn-n4v7knls%2Csn-nx57ynlz&id=o-AOk8p7o9C2qRzKDHzeuHBQjUIxWsyYgSPYkD4L-Z8Jo0&c=WEB&gir=yes&ei=4o2iW7OdI9mFkgar7oSQAg&ipbits=0&requiressl=yes&ip=178.128.76.117&key=yt6&lmt=1537049943406474&ratebypass=yes&source=youtube&dur=206.309&clen=17945073&expire=1537401410&mime=video%2Fmp4&pl=22&fvip=2&signature=96CEF62F5037AC0CC36AF252375FBA9D73332E78.BDEF52F0EAFA31EEFACD01615ED5E59FB0AC2322&utmg=ytap1
+#EXTINF:-59,BOOMERANG HD
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(BOOMERANG)/Stream(04)/index.m3u8
+#EXTINF:-60,ANIME HD
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-61,NICKJR HD
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(NICK_JR_HD)/Stream(05)/index.m3u8
+#EXTINF:-62,NICKELODEON HD
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(NICKELODEON_HD)/Stream(05)/index.m3u8
+#EXTINF:-63,FM HOT Chile
+http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/chunklist_w1879703870_b1500000_slesp.m3u8
+#EXTINF:-64,ESPN PLUS HD
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(ESPN_PLUS_HD)/Stream(05)/index.m3u8
+#EXTINF:-65,PARAMOUND HD
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(PARAMOUNT_HD)/Stream(05)/index.m3u8
+#EXTINF:-66,ACM HD
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(AMC_HD)/Stream(05)/index.m3u8
+#EXTINF:-67,WWE LUCHA LIBRE HD
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(FOXACTION_HD)/Stream(05)/index.m3u8
+#EXTINF:-68,MAX PRIME HD
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(MAX_PRIME_HD)/Stream(05)/index.m3u8
+#EXTINF:-69,PASIONESS TV HD
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(PASIONES_HD)/Stream(01)/index.m3u8
+#EXTINF:-70,NICK2 HD
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(NICK_2_HD)/Stream(05)/index.m3u8
+#EXTINF:-71,NAT GEO KIDS HD
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(NATGEO_KIDS_HD)/Stream(05)/index.m3u8
